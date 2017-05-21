@@ -2,10 +2,10 @@
 
 
 - Android App that converts audio for lectures into text, extracts important keywords from the lecture, and recommends recent 
-  professional courses
-- microsoft cognitive services are used (text to speech, text analytics, bing search APIs
+  professional courses.
+- Microsoft cognitive services are used (text to speech, text analytics, bing search APIs
 
-- 3 stages :
+- Three stages :
 
   - Stage 1 : Speech recognition using Microsoft Speech recognition API which takes audio input and transfer it into text.
 
