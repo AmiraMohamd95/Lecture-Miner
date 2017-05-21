@@ -1,5 +1,7 @@
 # LectureMiner
-A Java written android application that consists of :
+
+
+Android App that converts audio for lectures into text, extracts important keywords from the lecture, and recommends recent professional courses, microsoft cognitive services are used (text to speech, text analytics, bing search APIs
 
 Stage 1 : Speech recognition using Microsoft Speech recognition API which takes audio input and transfer it into text.
 
