@@ -6,7 +6,7 @@
 
 - Microsoft cognitive services are used (text to speech, text analytics, bing search APIs)
 
-- project proposal : https://goo.gl/NfdNNQ 
+- Project proposal : https://goo.gl/NfdNNQ 
 
 - Three stages :
 
