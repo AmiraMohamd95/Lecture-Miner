@@ -4,7 +4,7 @@
 - Android App that converts audio for lectures into text, extracts important keywords from the lecture, and recommends recent 
   professional courses.  
 - Microsoft cognitive services are used (text to speech, text analytics, bing search APIs)
-- Project proposal: https://goo.gl/NfdNNQ
+- Project Proposal: https://goo.gl/NfdNNQ
 
 
 - Three stages:
