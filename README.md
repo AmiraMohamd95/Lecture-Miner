@@ -1,4 +1,4 @@
-# LectureMiner
+# Lecture Miner
 
 
 - Android App that converts audio for lectures into text, extracts important keywords from the lecture, and recommends recent 
